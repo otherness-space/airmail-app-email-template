@@ -24,7 +24,7 @@ This is for people who use Airmail.app.
 Without a specified email template system design thinking option there is a work around proposed by others.
 
 ### Where [:rewind:](#read-me)
-(http://feedback.airmailapp.com/forums/274948-airmail-mac-2-0/suggestions/5351656-support-for-templates-or-stationery)
+http://feedback.airmailapp.com/forums/274948-airmail-mac-2-0/suggestions/5351656-support-for-templates-or-stationery
 
 ### Why [:rewind:](#read-me)
 I put this out because during the process Airmail.app
