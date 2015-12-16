@@ -26,6 +26,9 @@ Without a specified email template system design thinking option there is a work
 ### Where [:rewind:](#read-me)
 http://feedback.airmailapp.com/forums/274948-airmail-mac-2-0/suggestions/5351656-support-for-templates-or-stationery
 
+I have to try this one when I have a chance:
+https://dillieodigital.wordpress.com/2014/10/15/quick-tip-how-to-create-an-email-template-in-airmail/
+
 ### Why [:rewind:](#read-me)
 I put this out because during the process Airmail.app
 * Crashes
